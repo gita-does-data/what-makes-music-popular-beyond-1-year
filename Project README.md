@@ -90,7 +90,7 @@ Purpose: Capture potential threshold effects and feature interactions not explic
 - Acoustic features alone are insufficient for high-confidence prediction of sustained chart success.  
 - External factors (marketing, artist reputation, genre cycles, cultural timing) likely play a major role.  
 
-## Technical Bits
+## Tech Stack
 
 - R:  
 - tidyverse  
