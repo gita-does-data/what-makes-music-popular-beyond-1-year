@@ -20,9 +20,7 @@ The goal is not only predictive performance, but to evaluate whether measurable 
 - 77% one-year hits  
 - 23% long-term hits  
 
-This creates:
-- Moderate class imbalance  
-- Substantial feature overlap between classes  
+! This shows moderate class-imbalance 
 
 ## Data Sources
 
@@ -92,9 +90,9 @@ Purpose: Capture potential threshold effects and feature interactions not explic
 - Acoustic features alone are insufficient for high-confidence prediction of sustained chart success.  
 - External factors (marketing, artist reputation, genre cycles, cultural timing) likely play a major role.  
 
-## Technical Stack
+## Technical Bits
 
-- R  
+- R:  
 - tidyverse  
 - randomForest  
 - MASS  
